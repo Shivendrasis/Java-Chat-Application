@@ -2,6 +2,9 @@
 
 A simple, real-time chat application built using **Java Networking**, **Socket Programming**, and **Swing** for the GUI. This project demonstrates a basic client-server architecture where multiple clients can connect to a server and engage in a conversation. The app provides a neat graphical interface for both the server and the clients to communicate seamlessly.
 
+## Screenshot
+![Screenshot of the project](./src/icons/2024-10-24.png)
+
 ## Features
 - **Client-Server Architecture**: The server listens for connections and allows multiple clients to join.
 - **Real-Time Messaging**: Messages are sent and received in real-time between the server and clients.
